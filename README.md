@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1178347803.svg)](https://doi.org/10.5281/zenodo.18946121)
+
 # Single-cell atlas of Zootermopsis nevadensis - code repo for paper
 This is a repository with the code used in the Zootermopsis nevadensis single-cell transcriptomic atlas paper.
 
